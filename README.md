@@ -6,6 +6,4 @@ Git & GitHub
 SSH
 html
 css
-Font awesome
-
-Google fonts
+Font awesome -->Google fonts
